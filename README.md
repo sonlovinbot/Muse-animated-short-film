@@ -14,15 +14,6 @@ Skill dựng phim hoạt hình ngắn **từ đầu đến cuối trên Muse AI*
 > [!TIP]
 > Thấy skill có ích? Bấm **⭐ Star** ở góc trên repo — giúp nhiều người làm phim tìm thấy skill này hơn.
 
-<!-- AD:START until=2026-10-05T23:55:00+07:00 -->
-> [!IMPORTANT]
-> **🎬 Xem lại Workshop Muse AI** — Record Zoom 4/10: tạo ảnh, video, audio miễn phí với Muse AI và làm giọng đọc bằng AI Audio Voice. **Chỉ mở đến 23:55 hôm nay (05/10/2026).**
->
-> [![Xem lại Workshop Muse AI](docs/assets/ads/muse-record.jpg)](https://academy.coachio.ai/funnels/record-workshop-muse-ai?utm_source=github_readme&utm_medium=readme&utm_campaign=muse-workshop-record&utm_content=muse-skill-readme)
->
-> 👉 **[Xem lại ngay](https://academy.coachio.ai/funnels/record-workshop-muse-ai?utm_source=github_readme&utm_medium=readme&utm_campaign=muse-workshop-record&utm_content=muse-skill-readme)** · <sub>Ad · Coachio Academy — khối này tự gỡ khi hết hạn</sub>
-<!-- AD:END -->
-
 ## 🎥 Video giới thiệu
 
 [![Video giới thiệu Muse AI](docs/assets/video-thumbnail.jpg)](https://youtu.be/kysOeBo5Qtw)
